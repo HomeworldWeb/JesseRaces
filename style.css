@@ -1,0 +1,19 @@
+body{background-color: burlywood;}
+h1.front{font-size: 30px; background-color: saddlebrown; color: gray;}
+table{width: 100%;}
+table, th, td{border: solid; border-collapse: collapse; padding: 5px;}
+body.table{margin: 0px;}
+h2.table{text-align: center;}
+td.upper{padding: 15px; vertical-align: top; font-family: sans-serif;}
+span.trait{font-style: italic; font-weight: bold;}
+span.r{color: red; font-family: "Yuji Hentaigana Akari";}
+span.o{color: orange; font-family: "Yuji Hentaigana Akari";}
+span.y{color: yellow; font-family: "Yuji Hentaigana Akari";}
+span.g{color: green; font-family: "Yuji Hentaigana Akari";}
+span.b{color: blue; font-family: "Yuji Hentaigana Akari";}
+span.p{color: purple; font-family: "Yuji Hentaigana Akari";}
+span.l{color: lavender; font-family: chewy;}
+a:link{color: white;}
+a:visited{color: black;}
+a:hover{color: gray;}
+span.dg{color: darkgreen; font-family: "Snowburst One";}
